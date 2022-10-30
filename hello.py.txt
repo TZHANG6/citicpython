@@ -1,1 +1,1 @@
-print("mayu no.5")
+print("mayu no.1")
